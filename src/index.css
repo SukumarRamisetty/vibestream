@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #121212;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+body.light {
+  background-color: white;
+  color: black;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+}
